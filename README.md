@@ -32,7 +32,7 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/Calculadora-IMC.git
+git clone https://github.com/seuusuario/Calculadora-IMC-.git
 Acesse o diretório do projeto:
 
 bash
